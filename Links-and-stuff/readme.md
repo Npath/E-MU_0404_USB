@@ -1,10 +1,10 @@
-Here is som usefull links and stuff</br>
+#Here is som usefull links and stuff</br>
 </br>
-Creative drivers home</br>
+<b>Creative drivers home</b></br>
 http://support.creative.com/Products/ProductDetails.aspx?catID=237&CatName=E-MU%20/%20Creative%20Professional&prodID=15167&prodName=E-MU%200404%20USB#</br>
 </br>
 </br>
-Windows</br>
+<b>Windows</b></br>
 </br>
 Drivers</br>
 25 Jul 11 </br>
@@ -15,12 +15,12 @@ http://support.creative.com/downloads/download.aspx?nDownloadId=10443</br>
 EMUU_PCAppDrv_US_1_40_00_BETA</br>
 http://support.creative.com/downloads/download.aspx?nDownloadId=11801</br>
 </br></br>
-Linux</br>
+<b>Linux</b></br>
 Introduction for EMU10K1-FPGA soundcard</br>
 http://www.alsa-project.org/main/index.php/Matrix:Module-emu10k1-fpga</br>
 </br>
 </br>
-MAC</br>
+<b>MAC</b></br>
 14 Oct 11</br>
 EMUU_MacAppDrv_US_1_50_07.dmg.zip</br>
 http://support.creative.com/downloads/download.aspx?nDownloadId=12115</br>
