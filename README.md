@@ -1,4 +1,4 @@
-# E-MU_0404_USB </br>
+# E-MU 0404 USB </br>
 The quest to find drivers for Windows 10, if not already there somewhere</br>
 (I have  E-MU 0404 USB 2.0 White)</br>
 </br>
