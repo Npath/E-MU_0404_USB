@@ -1,5 +1,5 @@
 # E-MU 0404 USB </br>
-The quest to find drivers for Windows 10, if not already there somewhere</br>
+The quest to find drivers for Windows 10 (if it does not already exist somewhere)</br>
 (I have  E-MU 0404 USB 2.0 White)</br>
 </br>
 </br>
